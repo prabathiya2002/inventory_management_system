@@ -1,0 +1,26 @@
+/* CreateReturn.css */
+
+/* Style for text in red */
+.text-red-500 {
+    color: red;
+  }
+  
+  /* Style for border and background color of input fields */
+  .border-gray-500 {
+    border: 2px solid #ccc;
+    background-color: #fff;
+  }
+  
+  /* Style for background color of the page */
+  .page-background {
+    background-color: rgb(99, 96, 96);
+  }
+
+  .p-4{
+    background-color: #ded8d8;
+  }
+
+  .table{
+    background-color: #e2d9d9;
+  }
+  
